@@ -1,5 +1,5 @@
 <?php
 
-include_once("BURDUN.html");
+include_once("HTML.html");
 
 ?>
